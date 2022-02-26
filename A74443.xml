@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An additional act for sale of the fee-farm rents· Thursday the third of June, 1652. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74443</idno>
+            <idno type="STC">Thomason E1061_68</idno>
+            <idno type="STC">ESTC R209341</idno>
+            <idno type="EEBO-CITATION">99868224</idno>
+            <idno type="PROQUEST">99868224</idno>
+            <idno type="VID">169117</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169117)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[68])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An additional act for sale of the fee-farm rents· Thursday the third of June, 1652. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. [2], 1589-1598.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On 12K2r: last word of first line of text: "present"; first word of line below initial: "said"; last word of last line: "and".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Farm tenancy --  England --  Early works to 1800.</term>
+               <term>Finance, Public --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169117:1" rendition="simple:additions"/>
+            <pb facs="tcp:169117:2"/>
+            <pb facs="tcp:169117:2" rendition="simple:additions"/>
+            <p>An Additional Act FOR SALE OF THE FEE-FARM RENTS.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Thurſday the Third of <hi>June,</hi> 1652.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Parliament, That this Act be forthwith Print<g ref="char:EOLhyphen"/>ed and Publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of <hi>England.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:169117:3"/>
+            <pb n="1589" facs="tcp:169117:3" rendition="simple:additions"/>
+            <head>An Additional Act For Sale of the Fee-Farm Rents.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Act of this preſent Parliament, Entituled, <hi>An Addi<g ref="char:EOLhyphen"/>tional Act for the Sale of the Fee-Farm-Rents, and for the doubling of Money thereupon,</hi> The Truſtees and Con<g ref="char:EOLhyphen"/>tractors appointed for ſale of the ſaid Rents, have in purſuance of the ſaid Act made ſeveral Contracts and Sales of part of the premiſes, by which the ſum of Two hun<g ref="char:EOLhyphen"/>dred and fifty thouſand pounds appointed by the ſaid Act to be advanced and ſecured, is ad<g ref="char:EOLhyphen"/>vanced and ſecured: And notwithſtanding there yet remains Five thouſand pounds by the year of the ſaid Rents unſold; The Parlia<g ref="char:EOLhyphen"/>ment taking into conſideration the preſent oc<g ref="char:EOLhyphen"/>caſions the Commonwealth hath of Moneys for carrying on of the Publique Service, Do Enact and Declare, and be it Enacted and De<g ref="char:EOLhyphen"/>clared by the Authority of this preſent Parlia<g ref="char:EOLhyphen"/>ment, That the ſum of Twenty five thouſand pounds ſhall be borrowed upon the ſecurity of ſuch part of the premiſes as ſhall remain over and above the Two hundred and fifty thouſand pounds, appointed to be Doubled by the Act of Parliament aforeſaid, by way of Doubling the like ſum as ſhall be due unto any perſon or per<g ref="char:EOLhyphen"/>ſons, Body Politique or Corporate, which by an Act of this preſent Parliament (Entituled, <hi>An Act of the Commons of England in Parliament aſſembled, for the aboliſhing of Deans, Dean and
+<pb n="1590" facs="tcp:169117:4"/>Chapters, Cannons, Prebends, and other Offices and Titles of or belonging to any Cathedral or Collegiate Church and Chappel within England and Wales</hi>) or by any additional Act, Inſtructions or Votes in Parliament might have been doubled upon the Security held out by the ſaid Act. And be it further Enacted, That it ſhall and may be law<g ref="char:EOLhyphen"/>ful to and for any perſon and perſons, his or their Executors and Adminiſtrators, Body Po<g ref="char:EOLhyphen"/>litique or Corporate, to grant ſuch his and their Publique-Faith Moneys, or other Moneys ſo admitted to be Doubled as aforeſaid, and the Bills, Certificates or Receipts for the ſame, and the Intereſt due and to be due thereupon unto any other perſon and perſons; and all and every ſuch Aſſignee and Aſſignees, Bodies Po<g ref="char:EOLhyphen"/>litique and Corporate, ſhall have the like benefit and advantages, to all intents and purpoſes as the firſt Lender or Owner might have had within the intent of this Act: And that it ſhall and may be lawful for any perſon or perſons, Body Politique or Corporate, who ſhall ad<g ref="char:EOLhyphen"/>vance by way of Doubling as aforeſaid, any ſum or ſums of money towards the raiſing of the ſaid ſum of Twenty five thouſand pounds upon the ſecurity of the premiſes, to aſsign the moneys which ſhall be due unto him or them up<g ref="char:EOLhyphen"/>on ſuch Doubling, and the Intereſt and benefit thereof to any other perſon or perſons, Body Politique or Corporate, that ſhall become a Pur<g ref="char:EOLhyphen"/>chaſer of any part of the premiſes: And that all and every ſum and ſums of Money due by or upon ſuch doubled Bills, ſhall be accepted, repu<g ref="char:EOLhyphen"/>ted and taken in ſatisfaction of the whole, or any part of the Moneys contracted for upon ſuch Purchaſe, as if the ſame had been paid in ready Moneys: And all Officers concerned
+<pb n="1591" facs="tcp:169117:4"/>therein, are hereby authorized and required to admit and allow the ſame, and to proceed ac<g ref="char:EOLhyphen"/>cordingly. And be it Enacted and Ordain<g ref="char:EOLhyphen"/>ed, That Colonel <hi>Robert Manwaring</hi> ſhall be Re<g ref="char:EOLhyphen"/>giſter-Accomptant for the ſaid premiſes, And that he ſhall aſcertain the Principal and Inte<g ref="char:EOLhyphen"/>reſt (where Intereſt is allowed) of ſuch moneys as ſhall be Doubled by vertue of this Act, and the ſame to certifie unto the Treaſurers former<g ref="char:EOLhyphen"/>ly appointed for the ſaid premiſes; and upon ſuch Certificate of what Principal and Intereſt is due to any as ſhall be Lenders within the intent of this Act, the ſaid Treaſures, or any two of them are hereby authorized to give to ſuch Len<g ref="char:EOLhyphen"/>der or Lenders a Receipt or Receipts, as well for the old Debt and Intereſt ſtated and certified (as aforeſaid) as alſo for the moneys lent to<g ref="char:EOLhyphen"/>wards the advancement of the ſaid ſum, pro<g ref="char:EOLhyphen"/>vided that the ſaid Regiſter-Accomptant do not certifie any Debt unto the ſaid Treaſurers, but ſuch as ſhall be firſt allowed of by the Truſtees for the ſaid premiſes, or any five or more of them. And be it further Enacted and Declared, That ſuch Lender or Lenders, their Executors, Ad<g ref="char:EOLhyphen"/>miniſtrators and Aſſigns ſhall have allowed to him and them, their Executors, Adminiſtra<g ref="char:EOLhyphen"/>tors and Aſſigns, in the purchaſe of any part of the premiſes, Six pounds <hi>per centum</hi> by the year where Intereſt is allowed for ſuch moneys as ſhall be due unto him or them upon the ſaid Treaſurers Receipts as aforeſaid. And it is fur<g ref="char:EOLhyphen"/>ther Enacted by the Authority aforeſaid, That every perſon and perſons, Body Politique or Corporate, who ſhall lend any Moneys on the ſaid Security as aforeſaid, and ſhall have his or their Debt and Intereſt ſtated and certified by the ſaid Regiſter Accomptant as aforeſaid, ſhall
+<pb n="1592" facs="tcp:169117:5"/>pay in to the Treaſurers in the firſt recited Act named, the Moneys wherewith he ought to double as aforeſaid, within Ten days next after the Certificate thereof made to the ſaid Treaſu<g ref="char:EOLhyphen"/>rers, or otherwiſe ſhall forfeit his or their Mo<g ref="char:EOLhyphen"/>neys allowed to be doubled by the ſaid Truſtees as aforeſaid, unleſs he or they ſhew good cauſe to the Treaſurers, or any two them, to be allowed by them or any two of them for his or their neg<g ref="char:EOLhyphen"/>lect. Provided onely, That the ſaid Truſtees ſhall not nor do not after the Twentieth day of <hi>March,</hi> in the year One thouſand ſix hundred fif<g ref="char:EOLhyphen"/>ty one, ſell any of the Fee-farm Rents, or other Rents mentioned in the ſaid Acts under Ten years purchaſe. And it is further Enacted, That the ſaid Truſtees and Contractors for ſale of the ſaid Rents, ſhall and may ſell any of the Fee-farm Rents, or other Rents mentioned in the ſaid Act, and in two other Acts of this preſent Parliament, the one Entituled <hi>An Act for ſelling the Fee-farm Rents belonging to the Commonwealth of England, formerly payable to the Crown of England, Dutchy of Lancaſter, and Dutchy of Cornwal:</hi> And by an other Act, entituled, <hi>An Act for the further Expla<g ref="char:EOLhyphen"/>nation of the former Act,</hi> Entituled, <hi>An Act for ſelling the Fee-farm Rents belonging to the Commonwealth of England, formerly payable to the Crown of England, Dutchy of Lancaſter, and Dutchy of Cornwal.</hi> And the ſaid Truſtees and Contractors, or any five or more of them, are hereby enabled and autho<g ref="char:EOLhyphen"/>rized to ſell and convey any part of the premiſes unto any perſon or perſons, Body Politique or Corporate, as ſhall be a Purchaſer thereof according to the Rules, Inſtructions and Di<g ref="char:EOLhyphen"/>rections as are given and ſet down in the ſaid Acts or either of them: And the Purchaſer or Purchaſers, his or their Heirs or Aſſigns,
+<pb n="1593" facs="tcp:169117:5"/>ſhall and may have, take and uſe the ſame, ſuch or the like benefits and advantages, means, Proces and Proceedings for the recovery there<g ref="char:EOLhyphen"/>of, as any Purchaſer or Purchaſers of any of the Fee-farm Rents, or other things mentioned, or intended in or by any of the aforeſaid Acts, may, can or ought to have or take by vertue and force of any the ſaid Acts. And be it further enacted, That the Truſtees, Contractors, Comptroller, Regiſter and Regiſter-Accomptant named in the ſaid Acts or any of them, ſhall and may put in execution, the ſame Powers and Authorities, in relation to the premiſes ſet to ſale by this Act, as they have done or might have done by ver<g ref="char:EOLhyphen"/>tue of any of the ſaid Acts of Parliament ap<g ref="char:EOLhyphen"/>pointing the ſale of the aforeſaid Fee-farm Rents. And be it further enacted and ordain<g ref="char:EOLhyphen"/>ed, That the ſaid Regiſter-Accomptant ſhall have paid unto him, for him and his Clerks, and other charges for their ſervice in and about the Premiſes, out of ſuch Moneys as ſhall be doubled upon the ſaid ſecurity, the ſum of One hundred pounds for his ſervice herein; And the ſaid Treaſurers are hereby enabled and autho<g ref="char:EOLhyphen"/>riſed to make payment thereof accordingly: pro<g ref="char:EOLhyphen"/>vided that the Truſtees, Contractors, Trea<g ref="char:EOLhyphen"/>ſurers, Regiſter and Comptroller ſhall have and receive only two pence upon every pound ſo contracted for upon doubling, preſently at the making of the ſaid Contract, which ſhall be al<g ref="char:EOLhyphen"/>lowed in part of the ſum contracted for, to be in lieu of the Sallaries for themſelves and their Clerks, and to be diſtributed amongſt them ac<g ref="char:EOLhyphen"/>cording to the directions of the firſt recited Act. And be it further enacted and ordained by this preſent Parliament, And it is enacted and or<g ref="char:EOLhyphen"/>dained by authority of the ſame, That all Mo<g ref="char:EOLhyphen"/>neys
+<pb n="1594" facs="tcp:169117:6"/>called Creation Mony, charged or charge<g ref="char:EOLhyphen"/>able upon or out of any Honors, Manors, Lands, Tenements or hereditaments, or upon any body Politique and Corporate, or payable out of the publique Revenue of the late Crown, unto any Duke, Marques, Earl, Viſcount or Baron, ſhall from the thirtieth of <hi>January,</hi> One thouſand ſix hundred forty eight, ceaſe, de<g ref="char:EOLhyphen"/>termine and be utterly void; And ſuch Duke, Marques, Earl, Viſcount and Baron, and every other perſon, Body politique and Corpo<g ref="char:EOLhyphen"/>rate, ſhall pay his and their full Fee-farm Rent and other rents chargeable as aforeſaid, and payable by any Letters Patents or other Grant to the Common-wealth, or ſuch perſon or per<g ref="char:EOLhyphen"/>ſons as ſhall purchaſe the ſame, without any re<g ref="char:EOLhyphen"/>teiner, deduction or defalkation. And it is fur<g ref="char:EOLhyphen"/>ther enacted and ordained by the authority a<g ref="char:EOLhyphen"/>foreſaid, That all ſuch Manors, Lands, Te<g ref="char:EOLhyphen"/>nements and Hereditaments, whereof the ſaid Truſtees in the ſaid Act named were at the time of the making of the ſaid Act, or at any time ſince ſeiſed or poſſeſſed, which were at the time of making of the ſaid Act charged or chargeable with the payment of any Fee-farm Rents, are and ſhall be and ſtand charged and chargeable therewith, notwithſtanding any Vnity of poſſeſſion for or by reaſon of the ſaid Act, and are and ſtand hereby revived: And that all and every perſon or perſons who hath or ſhall purchaſe the ſaid Fee-farm Rents, ſhall and may quietly and peaceably hold and enjoy the ſame to them and their heirs and aſſigns; according to their reſpective purchaſes; and ſhall have the ſame and the like benefit of <hi>No<g ref="char:EOLhyphen"/>mine penae's,</hi> powers to diſtrein, and other advan<g ref="char:EOLhyphen"/>tages, ways and means for the recovery of the
+<pb n="1595" facs="tcp:169117:6"/>ſaid Rents and all arrears of them, as the late King, Queen and Prince, or any of them, or any other perſon or perſons in truſt for them, or to their uſe, had or could, or might have had, the aforeſaid Act or any thing therein contained to the contrary thereof in any wiſe notwithſtand<g ref="char:EOLhyphen"/>ing. And it is further enacted and ordained by the authority aforeſaid, That the Clerk of the Pipe, the ſeveral Auditors, Deputy or Deputies, and all other officers whatſoever of the Exche<g ref="char:EOLhyphen"/>quer, or of any other Court or office of Record, ſhall and do from time to time, make forth ſuch Certificats and particulars of all the Fee-farm Rents, Bayliwicks, Liberties, Hundreds, Fran<g ref="char:EOLhyphen"/>chiſes, &amp; other Rents ſaleable by any of the afore<g ref="char:EOLhyphen"/>ſaid Acts, according to ſuch order or direction as they or any of them ſhall from time to time receive from the Truſtees named in the firſt mentioned Act, or any five of them, which order and directi<g ref="char:EOLhyphen"/>ons the ſaid Truſtees or any five or more of them are hereby impowred to give and make forth; and the ſaid Clerk of the Pipe, Auditors and other of<g ref="char:EOLhyphen"/>ficers before mentioned, and every of them reſpe<g ref="char:EOLhyphen"/>ctively are hereby required to obſerve accordingly; for which ſeveral &amp; reſpective Certificats &amp; parti<g ref="char:EOLhyphen"/>culars, the ſaid Clerk of y<hi rend="sup">e</hi> Pipe, Auditors &amp; other of the ſaid officers, ſhall be and are hereby allowed to receive &amp; take ſix ſhillings &amp; eight pence by the preſs, and three ſhillings four pence the half preſs, and no more: And the ſaid Clerk of the Pipe, Au<g ref="char:EOLhyphen"/>ditor, and other the ſaid reſpective officers, and their deputies or Clerks, are hereby required and enjoyned, not to receive of any of the purchaſers of the Rents aforeſaid, any other Fee or reward, nor any thing by way of Gratuity, or for expedition or otherwiſe for the ſaid Certificates or particulars, beſides the ſaid Fee of ſix ſhillings eight pence by the preſs, and three ſhillings four pence the half preſs, hereby allowed as aforeſaid; which ſaid preſ<g ref="char:EOLhyphen"/>ſes
+<pb n="1596" facs="tcp:169117:7"/>and half preſſes are to be made according to the uſuall maner of the Exchequer: And the ſaid Truſtees are hereby authoriſed and impowred to require from all Sheriffs, Receivers, Bailiffs, Collectors, Reeves or others, who have at any time ſince the making of the ſaid firſt mentioned Act, Collected or received, or ſhall at any time hereafter Collect or receive any of the ſaid rents in the aforeſaid Acts or either of them mentioned, full and true Rentals of all their Receipts and Collections, and ſhall deliver the ſame to the ſaid Truſtees upon oath; which oath the ſaid Truſtees or any three of them are hereby authoriſed to ad<g ref="char:EOLhyphen"/>miniſter accordingly. And it is further enacted and ordained, That the Regiſter in the firſt recited Act named, or his deputy, do rate and aſcertain the true values of every particular upon which any Contract ſhall be made, and do weekly make Certificate unto the Treaſurers named in the firſt recited Act, and alſo to the Regiſter-Accomptant in the laſt recited Act appointed, of all rents and rates of particulars or Certificates and values, as ſhall be from time to time certified unto the Tru<g ref="char:EOLhyphen"/>ſtees from and by the Clerk of the Pipe, the reſpe<g ref="char:EOLhyphen"/>ctive Auditors, or any other the beforementioned officers of the Exchequer, or of any other Court or office of Record; and of all Moneys payable upon any Contract made upon any ſuch particular or Certificate, and the full value how much is the ſum of the firſt Moyety to be paid in hand to the ſaid Treaſurers, as alſo to the ſaid Regiſter-Accompt<g ref="char:EOLhyphen"/>ant, and how much is the moyety to be forborn, and for what time, &amp; how and in what maner the ſum or ſums to be forborn are to be ſecured. And where<g ref="char:EOLhyphen"/>as divers Rents have been ſold and are ſtill to ſell, whereof no Grant or Letters Patents can be found in any Court of Record; Be it Enacted by the Authority aforeſaid, That where payment hath been made at any time within fifteen years
+<pb n="1597" facs="tcp:169117:7"/>laſt paſt, that ſuch ſales as are or ſhall be made of any ſuch Rents, ſhall be as good and effectual in the Law, as if Letters Patents or other Grant thereof ſhould be produced: And foraſmuch as ma<g ref="char:EOLhyphen"/>ny Honors, Manors, Lordſhips, Meſſuages, Lands, Tenements, and other Hereditaments were granted by the late King, or any his Prede<g ref="char:EOLhyphen"/>ceſſors, to divers perſons in Tail-general or in Tail-ſpecial, rendring Rent; which Rents, by rea<g ref="char:EOLhyphen"/>ſon of the dying of the Tenant in Tail without Heirs in Tail will determine, Be it Enacted by this preſent Parliament, and the Authority there<g ref="char:EOLhyphen"/>of, and it is hereby Enacted and Declared, That in all caſes where the late King or his Predeceſſors have made any grant of any honors, manors, lord<g ref="char:EOLhyphen"/>ſhips, meſſuages, lands, tenements and other hereditaments in Tail general or in Tail ſpecial, rendring a Rent to the Kings of <hi>England</hi> and their Succeſſors, That ſuch Purchaſers, their Heirs, Succeſſors and Aſſigns, ſhall have, hold and enjoy the ſaid Fee-farm Rent which they have purcha<g ref="char:EOLhyphen"/>ſed or hereafter ſhall purchaſe, to them, their heirs, ſucceſſors and aſſigns, according to their reſpective Deeds of purchaſe, notwithſtanding the Eſtate-tail upon which the ſaid Rent was reſerved is determined, or ſhall hereafter determine: And where any Honors, Manors, Lands, Tenements and Hereditaments granted as aforeſaid, have been aliened by the Grantee, with conſent of the late King or any of his Predeceſſors, out of which any Fee-farm Rent hath been reſerved, the Pur<g ref="char:EOLhyphen"/>chaſer or Purchaſers ſhall have, hold and enjoy the Rent ſo purchaſed by him or them, to his or their Heirs, Succeſſors and Aſſigns, notwithſtanding the Eſtate-tail upon which the ſaid Rent was or is reſerved, is determined, or hereafter ſhall deter<g ref="char:EOLhyphen"/>mine. Provided, That ſuch Rent or Rents have been in charge, and paid within the ſpace of fifteen years, before the twentieth of <hi>December, 1651.</hi> And
+<pb n="1598" facs="tcp:169117:8"/>whereas the Truſtees have by their Surveyors made ſurvey of divers Hundreds, and other Liber<g ref="char:EOLhyphen"/>ties ſaleable by the aforeſaid Acts; That in ſuch caſe <hi>Henry Colbrand</hi> Regiſter, or his Deputy, is here<g ref="char:EOLhyphen"/>by authorized and required to make Particulars of them, &amp; the ſaid Truſtees to ſell and convey them accordingly. And be it further Enacted by the au<g ref="char:EOLhyphen"/>thority aforeſaid, That the like Power to all in<g ref="char:EOLhyphen"/>tents &amp; purpoſes be hereby given to the ſaid Tru<g ref="char:EOLhyphen"/>ſtees, to grant any the ſaid Rents and premiſes under the yearly value of Fifty ſhillings upon a Particular or Certificate, by a Memorandum of the Rent or duty, and the eſtate and ſum for which the ſame is granted, as fully and amply to the ad<g ref="char:EOLhyphen"/>vantage of the Purchaſer, as by any Act or Acts aforeſaid they might or could have done upon the ſale of any the premiſes already made by the ſaid Truſtees for any leſſer ſum. And it is further En<g ref="char:EOLhyphen"/>acted and Declared, That all ſales and conveyan<g ref="char:EOLhyphen"/>ces of any of the ſaid premiſes, as well of Rents iſ<g ref="char:EOLhyphen"/>ſuing out of any Rectory or Titles impropriate as otherwiſe, whether ſold already, or hereby intended to be ſold by the ſaid Truſtees, be and hereby are confirmed to the Purchaſers, their Heirs and Aſ<g ref="char:EOLhyphen"/>ſigns, as if the ſaid Rents and other the ſaid premi<g ref="char:EOLhyphen"/>ſes had been herein particularly named and ex<g ref="char:EOLhyphen"/>preſſed, Any other Act or Law to the contrary notwithſtanding. And be it further Enacted and Declared, that where any of the ſaid Fee-farm rents, or other rents formerly appointed or hereby appointed to be ſold by vertue of this or any the a<g ref="char:EOLhyphen"/>foreſaid Acts, and iſſuing and payable out of any the Delinquents Eſtates already appointed or to be appointed to be ſold, they ſhall be good and effe<g ref="char:EOLhyphen"/>ctual to the Purchaſer or purchaſers of the ſaid Fee-farm rents and other rents, their Heirs and Aſſigns for ever, Any Act or Law to the contrary notwithſtanding.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
